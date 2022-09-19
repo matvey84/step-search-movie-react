@@ -1,0 +1,15 @@
+.error-page-text {
+width: 400px;
+height: 250px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+border: 2px solid red;
+
+}
+.error-page-text h1 {
+ color: red;
+ font-size: 30px;
+ text-align: center;
+}
